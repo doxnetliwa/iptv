@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://www.vidio.com/blog/wp-content/uploads/sites/2/elementor/thumbs/RCTI-qv7ahk5bwmpsj8bo6uuv9sz474vdzgd4n85v6dip72.jpg" group-title="INDONESIA",RCTI R+
+#EXTINF:-1 tvg-logo="https://www.vidio.com/blog/wp-content/uploads/sites/2/elementor/thumbs/RCTI-qv7ahk5bwmpsj8bo6uuv9sz474vdzgd4n85v6dip72.jpg" group-title="INDONESIA",RCTI R+aaaaaaa
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
@@ -235,3 +235,4 @@ https://mam.jogjaprov.go.id:1937/cctv-public/ViewMangunan.stream/chunklist_w1597
 https://mam.jogjaprov.go.id:1937/cctv-public/ViewCandiBoko.stream/chunklist_w1595343271.m3u8
 #EXTINF:-1 tvg-logo="https://www.techcube.co.uk/wp-content/uploads/2017/09/cctv-camera.jpg" group-title="CCTV YOGYAKARTA",CCTV GUNUNG MERAPI
 https://mam.jogjaprov.go.id:1937/cctv-public/ViewGunungMerapi.stream/chunklist_w77489758.m3u8
+
