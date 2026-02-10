@@ -61,7 +61,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h12/index.m3u8?app_type=web&amp;userid
 #EXTINF:-1 tvg-logo="https://www.dens.tv/images/channel-logo/7.jpg" group-title="TV Dens",tvOne
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
-http://op-group1-swiftservehd-1.dens.tv/h/h40/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=tvOne
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000018/1024.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.dens.tv/images/channel-logo/14.jpg" group-title="TV Dens",Kompas TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
@@ -235,4 +235,5 @@ https://mam.jogjaprov.go.id:1937/cctv-public/ViewMangunan.stream/chunklist_w1597
 https://mam.jogjaprov.go.id:1937/cctv-public/ViewCandiBoko.stream/chunklist_w1595343271.m3u8
 #EXTINF:-1 tvg-logo="https://www.techcube.co.uk/wp-content/uploads/2017/09/cctv-camera.jpg" group-title="CCTV YOGYAKARTA",CCTV GUNUNG MERAPI
 https://mam.jogjaprov.go.id:1937/cctv-public/ViewGunungMerapi.stream/chunklist_w77489758.m3u8
+
 
