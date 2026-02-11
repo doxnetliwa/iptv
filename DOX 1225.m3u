@@ -36,6 +36,10 @@ http://op-group1-swiftservehd-1.dens.tv/h/h207/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/kOuIjcBlgd7Dd-WQaDXb_GfUxmU=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg" group-title="INDONESIA",ANTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://op-group1-swiftservehd-1.dens.tv/h/h217/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4hertVo.jpeg" group-title="INDONESIA",SCTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://op-group1-swiftservehd-1.dens.tv/h/h217/index.m3u8
@@ -238,6 +242,7 @@ https://mam.jogjaprov.go.id:1937/cctv-public/ViewMangunan.stream/chunklist_w1597
 https://mam.jogjaprov.go.id:1937/cctv-public/ViewCandiBoko.stream/chunklist_w1595343271.m3u8
 #EXTINF:-1 tvg-logo="https://www.techcube.co.uk/wp-content/uploads/2017/09/cctv-camera.jpg" group-title="CCTV YOGYAKARTA",CCTV GUNUNG MERAPI
 https://mam.jogjaprov.go.id:1937/cctv-public/ViewGunungMerapi.stream/chunklist_w77489758.m3u8
+
 
 
 
